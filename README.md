@@ -1,4 +1,4 @@
-Singapore Used Car Price
+<b>Singapore Used Car Price</b>
 Machine Learning Project on Used Car Price in Singapore
 
 
