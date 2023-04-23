@@ -4,7 +4,7 @@ from catboost import CatBoostClassifier
 import pickle
 
 # loading the saved models
-car_price_model = pickle.load(open('sg_used_car_cbc.pkl', 'rb'))
+car_price_model = pickle.load(open(r'sg_used_car_cbc.pkl', 'rb'))
 
 st.write("""
 # Used Car Price Prediction App
